@@ -1,3 +1,7 @@
 # nerve
 Code for our ECE395 Project
-<img src="block.png" alt="block" width="200"/></td>
+
+<br>
+<br>
+<br>
+<img src="block.png" alt="block" width="700"/></td>
